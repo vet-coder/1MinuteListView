@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //최초 변경
         //주석 추가
+        //테스트 브랜치
     }
 }
